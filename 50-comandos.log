@@ -1,0 +1,7 @@
+    1  wc -w El-arriero.txt
+    2  grep -isrc 'vaquitas' * | grep -v '0$'
+    3  mkdir carpeta-nueva
+    4  cd carpeta-nueva
+    5  touch 50-comandos.log
+    6  history 50
+    7  history 50 > 50-comandos.log
